@@ -50,8 +50,8 @@ In the process of documenting, there was initial confusion regarding the individ
 ---
 
 ### 🎨 Visualizing the Connection
-> **[직접 정리한 학습 다이어그램 삽입 위치]**
-> ![학습 정리 그림](이미지_경로_입력.png)
+> **[<img width="1603" height="1114" alt="IMG_0135" src="https://github.com/user-attachments/assets/6e60d4a5-4692-4bd6-a504-81f1a1154754" />]**
+> ![학습 정리 그림] (그림파일명.png)
 
 ---
 

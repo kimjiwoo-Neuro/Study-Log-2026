@@ -1,12 +1,16 @@
-# 2026-04-17 Learning Note
+# [General Biology] 아쿠아포린과 뇌부종의 상관관계
 
-### 🧠 Biomedical Insight: Aquaporins and Cerebral Edema
-#### 아쿠아포린과 뇌부종: 수송 단백질 제어를 통한 뇌 보호 전략
+## (The Logic of Aquaporins and Brain Edema)
+
+* **Date:** 2026-04-17
+* **Core Logic:** 아쿠아포린(AQP4) 활성 → 수분 유입 → 뇌부종 발생 → 폐쇄된 두개골 내 압력 상승 → 신경학적 손상
+
+---
+
+## 📍 Logical Debugging: Before & After (영한 혼용)
 
 While studying **Aquaporins**, I explored their clinical significance in **Cerebral Edema** (brain swelling) and debugged my logical understanding of why brain swelling is uniquely dangerous.
 아쿠아포린 수송 단백질을 공부하며 뇌부종과의 상관관계를 탐구하였고, 특히 뇌의 부종이 다른 신체 부위보다 치명적인 이유에 대한 논리적 오류를 바로잡았습니다.
-
-#### 🔍 Logical Debugging: Before & After (영한 혼용)
 
 * **❌ Before (Initial Misconception)**
     I vaguely understood that brain damage occurs simply because the **skull (두개골)** protects the brain. Also, I thought other body parts had **no limits on expansion (팽창의 한계가 없음)**, while only the brain was restricted.
@@ -22,7 +26,7 @@ While studying **Aquaporins**, I explored their clinical significance in **Cereb
 
 ---
 
-### 📊 Three Key Factors of Brain Vulnerability
+## 📍 Three Key Factors of Brain Vulnerability
 #### 뇌가 부종에 유독 취약한 3가지 이유
 
 1. **Closed System (폐쇄 구조):** The skull acts as a 'rigid box' with no buffer space. (두개골은 여유 공간이 없는 단단한 상자임)
@@ -31,7 +35,7 @@ While studying **Aquaporins**, I explored their clinical significance in **Cereb
 
 ---
 
-### 💊 Future Research: Aquaporin-4 Inhibitors
+## 📍 Future Research: Aquaporin-4 Inhibitors
 #### 미래 연구 방향: 아쿠아포린-4 억제제
 
 * **Current Status:** Currently, osmotic therapy (e.g., Mannitol) is used to remove water after swelling occurs. (현재는 만니톨 등을 이용한 사후적 수분 제거가 주류임)

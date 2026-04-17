@@ -44,7 +44,7 @@ While studying **Aquaporins**, I explored their clinical significance in **Cereb
 
 ---
 
-## 🔗 관련 힉습 링크 및 태그
+## 🔗 관련 학습 링크 및 태그
 * **Category:** #BiomedicalScience #Neuroscience
 * **Tags:** #Aquaporin #BrainEdema #MolecularBiology #CellBiology
 * **Goal:** 아쿠아포린 단백질의 구조적 특징과 뇌부종 발생 기제 분석

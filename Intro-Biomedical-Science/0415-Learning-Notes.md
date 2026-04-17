@@ -36,15 +36,13 @@ In the process of documenting, there was initial confusion regarding the individ
 작성 과정에서 아미노산(Amino Acid)과 염기(Base)의 개별적인 역할에 대해 혼동이 있었으나, 추가 학습을 통해 다음과 같이 개념을 정립하고 시각적으로 정리하였습니다.
 
 * **Initial Confusion (초기 혼동 사항):**
-    * **English:** Mistakenly assumed that base sequences themselves were the building blocks of proteins, or had an unclear understanding of the structural relationship between amino acids and bases.
-    * **한글:** 염기 서열 자체가 단백질의 재료가 되는 것으로 오해하거나, 아미노산과 염기의 구조적 결합 관계를 불분명하게 인지함.
+    * 염기 서열 자체가 단백질의 재료가 되는 것으로 오해하거나, 아미노산과 염기의 구조적 결합 관계를 불분명하게 인지함.
 
 * **Refined Understanding (학습 후 정립):**
-    * **Base (염기):** Located in DNA/mRNA; functions as the **'Information (Blueprint)'** for protein synthesis by forming codons. (DNA/mRNA에 존재하며, 코돈 형성을 통해 단백질 합성을 위한 **'정보/설계도'** 역할을 수행.)
-    * **Amino Acid (아미노산):** The **'Actual Building Blocks'** of proteins, transported by tRNA. (tRNA에 의해 운반되는 단백질의 **'실제 재료/건축 자재'** 역할을 수행.)
+    * **Base (염기):** DNA/mRNA에 존재하며, 코돈 형성을 통해 단백질 합성을 위한 **'정보/설계도'** 역할을 수행.
+    * **Amino Acid (아미노산):** tRNA에 의해 운반되는 단백질의 **'실제 재료/건축 자재'** 역할을 수행.
 
 * **Action Taken (조치 사항):**
-    * Added a visual diagram to illustrate how genetic information (bases) is translated into physical matter (amino acids).
     * 정보(염기)가 어떻게 물질(아미노산)로 번역되는지 이해한 내용을 바탕으로 시각 자료를 추가함.
 
 ---
@@ -62,16 +60,13 @@ The process of protein synthesis is a highly efficient cycle where tRNAs are reu
 단백질 합성 과정은 tRNA가 재사용되어 폴리펩타이드 사슬을 형성하는 매우 효율적인 순환 구조를 가집니다.
 
 #### 1. Exit and Release (E-site) | 방출 (E 자리)
-* **English:** After transferring its amino acid to the growing chain, the "uncharged" tRNA moves to the **E-site (Exit site)** and is released from the ribosome into the cytoplasm.
-* **한글:** 아미노산을 전달한 빈 tRNA는 **E 자리(Exit site)**로 이동한 후 리보솜을 떠나 세포질로 방출됩니다.
+* 아미노산을 전달한 빈 tRNA는 **E 자리(Exit site)**로 이동한 후 리보솜을 떠나 세포질로 방출됩니다.
 
 #### 2. Recharging (Aminoacylation) | 아미노산 재결합 (충전)
-* **English:** In the cytoplasm, the enzyme **aminoacyl-tRNA synthetase** attaches a specific amino acid back to the tRNA, matching its anticodon. This process requires ATP.
-* **한글:** 세포질로 나간 tRNA는 **아미노아실 tRNA 합성효소**에 의해 자신의 안티코돈에 맞는 아미노산과 다시 결합합니다. 이 과정에서 ATP 에너지가 사용됩니다.
+* 세포질로 나간 tRNA는 **아미노아실 tRNA 합성효소**에 의해 자신의 안티코돈에 맞는 아미노산과 다시 결합합니다. 이 과정에서 ATP 에너지가 사용됩니다.
 
 #### 3. Re-entry (A-site) | 재진입 (A 자리)
-* **English:** The newly "charged" tRNA, carrying its amino acid, returns to the ribosome's **A-site (Aminoacyl site)** by pairing with the corresponding mRNA codon.
-* **한글:** 아미노산이 충전된 tRNA는 다시 리보솜의 **A 자리(Aminoacyl site)**로 돌아와 mRNA 코돈과 결합하며 단백질 합성을 이어갑니다.
+* 아미노산이 충전된 tRNA는 다시 리보솜의 **A 자리(Aminoacyl site)**로 돌아와 mRNA 코돈과 결합하며 단백질 합성을 이어갑니다.
 
 ---
 

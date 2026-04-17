@@ -27,8 +27,7 @@ While documenting the evolutionary outcomes in hybrid zones, I identified and co
 ### 📊 Three Evolutionary Outcomes in Hybrid Zones
 #### 잡종지대의 세 가지 진화 경로 요약
 
-The interaction between **Hybrid Fitness** and **Reproductive Barriers** determines the long-term fate of the hybrid zone.
-잡종의 적합도와 생식적 격리 사이의 상호작용은 잡종지대의 장기적인 운명을 결정합니다.
+잡종의 적합도와 생식적 격리 사이의 상호작용은 잡종지대의 운명을 결정합니다.
 
 #### 1. Reinforcement (강화)
 * **Condition:** 잡종의 적합도가 부모 종보다 낮음 (Low hybrid fitness)

@@ -42,6 +42,15 @@ While studying **Aquaporins**, I explored their clinical significance in **Cereb
 * **Next Step:** A major challenge in neuroscience (especially in programs like MIT BCS) is developing **AQP4 inhibitors** to block water entry at the molecular level in the early stages of injury.
 * 뇌과학의 핵심 과제는 AQP4 억제제를 개발하여 부상 초기 단계에서 분자 수준의 수분 유입을 원천 차단하는 것임.
 
+---
+
+## 🔗 관련 힉습 링크 및 태그
+* **Category:** #BiomedicalScience #Neuroscience
+* **Tags:** #Aquaporin #BrainEdema #MolecularBiology #CellBiology
+* **Goal:** 아쿠아포린 단백질의 구조적 특징과 뇌부종 발생 기제 분석
+
+---
+
 <br>
 <br>
 

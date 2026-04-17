@@ -1,7 +1,11 @@
-# 2026-04-16 Learning Note
+# [Biomedical Science] 잡종지대 '강화' 현상의 논리적 인과 분석
 
-### 🧬 Conceptual Refinement: Causal Analysis of Reinforcement
-#### 개념 재정립: 잡종지대 '강화' 현상의 논리적 인과 분석
+## (The Logic of Reinforcement in Hybrid Zones)
+
+* **Date:** 2026-04-16
+* **Core Logic:** 잡종 적합도 저하 → 생식적 격리(장벽) 강화 → 유전자 흐름 차단 → 잡종지대 축소 및 종 분화
+
+---
 
 While documenting the evolutionary outcomes in hybrid zones, I identified and corrected a common logical misconception regarding the term 'Reinforcement.'
 잡종지대의 진화적 결과를 정리하던 중, '강화(Reinforcement)'라는 용어의 주체와 관련해 흔히 발생하는 논리적 오류를 발견하고 이를 올바르게 재정립하였습니다.

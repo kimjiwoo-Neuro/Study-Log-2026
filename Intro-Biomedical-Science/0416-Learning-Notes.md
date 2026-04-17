@@ -8,6 +8,7 @@
 ---
 
 While documenting the evolutionary outcomes in hybrid zones, I identified and corrected a common logical misconception regarding the term 'Reinforcement.'
+
 잡종지대의 진화적 결과를 정리하던 중, '강화(Reinforcement)'라는 용어의 주체와 관련해 흔히 발생하는 논리적 오류를 발견하고 이를 올바르게 재정립하였습니다.
 
 #### 🔍 논리 디버깅: Before & After

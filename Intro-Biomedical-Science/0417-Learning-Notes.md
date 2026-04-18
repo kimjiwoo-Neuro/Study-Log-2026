@@ -1,5 +1,5 @@
 
-# [Biomedical Insiht] 연역법과 귀납법의 연구 방향 논리 디버깅
+# [Biomedical Science] 연역법과 귀납법의 연구 방향 논리 디버깅
 
 ## (Logic Debugging on Deductive and Inductive Reasoning)
 

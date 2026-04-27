@@ -1,4 +1,4 @@
-# [2026-04-27] Research Hypothesis & Strategy: AQP-DCC Interaction
+# [2026-04-27] [Biomedical Science] Research Hypothesis & Strategy: AQP-DCC Interaction
 
 ## 📝 개요 (Overview)
 * **주제:** 뇌혈류 속도 차이와 DCC 단백질 결합 임계점이 아쿠아포린(Aquaporin) 이탈에 미치는 영향
